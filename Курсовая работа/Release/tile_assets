@@ -1,0 +1,10 @@
+0;12;tiles\grass;
+1;12;tiles\flowers;
+2;14;tiles\trail;
+3;12;tiles\beach;
+4;1;tiles\water;
+5;7;tiles\lawn;
+6;5;tiles\cobblestone;
+7;5;tiles\gravel;
+8;3;tiles\cave;
+9;0;tiles\none;
